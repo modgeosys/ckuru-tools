@@ -21,12 +21,12 @@ extensions: []
 
 extra_rdoc_files: 
 - History.txt
-- README.txt
+- README
 - bin/ckuru-tools
 files: 
 - History.txt
 - Manifest.txt
-- README.txt
+- README
 - Rakefile
 - bin/ckuru-tools
 - lib/ckuru-tools.rb
